@@ -7,10 +7,6 @@
 #include <memory>
 #include <cstdlib>
 
-// 共通ヘッダー
-#include "ray.h"
-#include "vec3.h"
-
 // using
 using std::shared_ptr;
 using std::make_shared;
